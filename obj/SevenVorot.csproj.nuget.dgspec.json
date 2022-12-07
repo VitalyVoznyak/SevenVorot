@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виталя\\source\\repos\\SevenVorot\\SevenVorot.csproj": {}
+    "C:\\SevenVorot\\SevenVorot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виталя\\source\\repos\\SevenVorot\\SevenVorot.csproj": {
+    "C:\\SevenVorot\\SevenVorot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виталя\\source\\repos\\SevenVorot\\SevenVorot.csproj",
+        "projectUniqueName": "C:\\SevenVorot\\SevenVorot.csproj",
         "projectName": "SevenVorot",
-        "projectPath": "C:\\Users\\Виталя\\source\\repos\\SevenVorot\\SevenVorot.csproj",
+        "projectPath": "C:\\SevenVorot\\SevenVorot.csproj",
         "packagesPath": "C:\\Users\\Виталя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виталя\\source\\repos\\SevenVorot\\obj\\",
+        "outputPath": "C:\\SevenVorot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

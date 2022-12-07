@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vu2k3k1Qmtb8w9Ucpiu2S7s0ggQFkwX9Y6Z1m3lG+y9aHAA98kUPsVe4bSYfhfaXnuh7vy7b72MLl7jKkKLAng==",
+  "dgSpecHash": "g1/TGDdNfnlOR5B+A7RyDIG2XjlAph0KRL01oUMKTms38/m5HAVGTXvrMzk0c4Q7BiktpcvmE/4KBaESLrybGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Виталя\\source\\repos\\SevenVorot\\SevenVorot.csproj",
+  "projectFilePath": "C:\\SevenVorot\\SevenVorot.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
