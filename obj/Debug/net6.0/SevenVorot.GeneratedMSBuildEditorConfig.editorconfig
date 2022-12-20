@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SevenVorot
 build_property.RootNamespace = SevenVorot
-build_property.ProjectDir = C:\SevenVorot\
+build_property.ProjectDir = D:\SevenVorot\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\SevenVorot
+build_property.MSBuildProjectDirectory = D:\SevenVorot
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/SevenVorot/Views/Home/Automatic.cshtml]
+[D:/SevenVorot/Views/Home/Automatic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdXRvbWF0aWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/Barrier.cshtml]
+[D:/SevenVorot/Views/Home/Barrier.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXJyaWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/Doors.cshtml]
+[D:/SevenVorot/Views/Home/Doors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb29ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/FencingSystems.cshtml]
+[D:/SevenVorot/Views/Home/FencingSystems.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGZW5jaW5nU3lzdGVtcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/Index.cshtml]
+[D:/SevenVorot/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/Rollets.cshtml]
+[D:/SevenVorot/Views/Home/Rollets.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSb2xsZXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/SectionalDoors.cshtml]
+[D:/SevenVorot/Views/Home/SectionalDoors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWN0aW9uYWxEb29ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/SlidingGates.cshtml]
+[D:/SevenVorot/Views/Home/SlidingGates.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTbGlkaW5nR2F0ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Home/SwingGates.cshtml]
+[D:/SevenVorot/Views/Home/SwingGates.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTd2luZ0dhdGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Shared/Error.cshtml]
+[D:/SevenVorot/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/SevenVorot/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/WorkwithDB/GetProduct.cshtml]
+[D:/SevenVorot/Views/WorkwithDB/GetProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3dpdGhEQlxHZXRQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/WorkwithDB/GetProductInfo.cshtml]
+[D:/SevenVorot/Views/WorkwithDB/GetProductInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3dpdGhEQlxHZXRQcm9kdWN0SW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/_ViewImports.cshtml]
+[D:/SevenVorot/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/_ViewStart.cshtml]
+[D:/SevenVorot/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SevenVorot/Views/Shared/_Layout.cshtml]
+[D:/SevenVorot/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f41jj777tv

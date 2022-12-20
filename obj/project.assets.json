@@ -10134,23 +10134,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Виталя\\.nuget\\packages\\": {},
+    "C:\\Users\\Andrey V\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SevenVorot\\SevenVorot.csproj",
+      "projectUniqueName": "D:\\SevenVorot\\SevenVorot.csproj",
       "projectName": "SevenVorot",
-      "projectPath": "C:\\SevenVorot\\SevenVorot.csproj",
-      "packagesPath": "C:\\Users\\Виталя\\.nuget\\packages\\",
-      "outputPath": "C:\\SevenVorot\\obj\\",
+      "projectPath": "D:\\SevenVorot\\SevenVorot.csproj",
+      "packagesPath": "C:\\Users\\Andrey V\\.nuget\\packages\\",
+      "outputPath": "D:\\SevenVorot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Виталя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andrey V\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10159,7 +10159,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

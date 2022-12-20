@@ -1,1119 +1,1119 @@
 {
   "Files": [
     {
-      "Id": "C:\\SevenVorot\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SevenVorot.bundle.scp.css",
+      "Id": "D:\\SevenVorot\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SevenVorot.bundle.scp.css",
       "PackagePath": "staticwebassets\\SevenVorot.bundle.scp.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\css\\font-awesome.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\css\\kernel_main_v1.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\css\\kernel_main_v1.css",
       "PackagePath": "staticwebassets\\css\\kernel_main_v1.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\css\\page_1b6a2d2ff9f4312cd3ad242bc04ac8e4_v1.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\css\\page_1b6a2d2ff9f4312cd3ad242bc04ac8e4_v1.css",
       "PackagePath": "staticwebassets\\css\\page_1b6a2d2ff9f4312cd3ad242bc04ac8e4_v1.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\css\\site.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\css\\template_a088dc8b503cfc8060ac4a1dfd459f5f_v1.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\css\\template_a088dc8b503cfc8060ac4a1dfd459f5f_v1.css",
       "PackagePath": "staticwebassets\\css\\template_a088dc8b503cfc8060ac4a1dfd459f5f_v1.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\css\\ui.font.opensans.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\css\\ui.font.opensans.css",
       "PackagePath": "staticwebassets\\css\\ui.font.opensans.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\favicon.ico",
+      "Id": "D:\\SevenVorot\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\Roboto-Regular.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\Roboto-Regular.woff",
       "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\SevenVorotLogo.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\SevenVorotLogo.svg",
       "PackagePath": "staticwebassets\\fonts\\SevenVorotLogo.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\basket.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\basket.svg",
       "PackagePath": "staticwebassets\\fonts\\basket.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont_1.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\fontawesome-webfont_1.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont_1.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\heart-active.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\heart-active.svg",
       "PackagePath": "staticwebassets\\fonts\\heart-active.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\heart.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\heart.svg",
       "PackagePath": "staticwebassets\\fonts\\heart.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\loading.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\loading.svg",
       "PackagePath": "staticwebassets\\fonts\\loading.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\menu-popup-item-angel.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\menu-popup-item-angel.svg",
       "PackagePath": "staticwebassets\\fonts\\menu-popup-item-angel.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-bold.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-bold.eot",
       "PackagePath": "staticwebassets\\fonts\\opensans-bold.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-bold.ttf",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\opensans-bold.ttf"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-bold.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-bold.woff",
       "PackagePath": "staticwebassets\\fonts\\opensans-bold.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-light.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-light.eot",
       "PackagePath": "staticwebassets\\fonts\\opensans-light.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-light.ttf",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-light.ttf",
       "PackagePath": "staticwebassets\\fonts\\opensans-light.ttf"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-light.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-light.woff",
       "PackagePath": "staticwebassets\\fonts\\opensans-light.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-regular.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-regular.eot",
       "PackagePath": "staticwebassets\\fonts\\opensans-regular.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-regular.ttf",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\opensans-regular.ttf"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-regular.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-regular.woff",
       "PackagePath": "staticwebassets\\fonts\\opensans-regular.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-semibold.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-semibold.eot",
       "PackagePath": "staticwebassets\\fonts\\opensans-semibold.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-semibold.ttf",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-semibold.ttf",
       "PackagePath": "staticwebassets\\fonts\\opensans-semibold.ttf"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\opensans-semibold.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\opensans-semibold.woff",
       "PackagePath": "staticwebassets\\fonts\\opensans-semibold.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\pdf.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\pdf.svg",
       "PackagePath": "staticwebassets\\fonts\\pdf.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\slick.eot",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\slick.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\slick.ttf",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\slick.woff",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\sprite.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\sprite.svg",
       "PackagePath": "staticwebassets\\fonts\\sprite.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\fonts\\user.svg",
+      "Id": "D:\\SevenVorot\\wwwroot\\fonts\\user.svg",
       "PackagePath": "staticwebassets\\fonts\\user.svg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\00e5d8b0252db04cd8a2a88622c15dec.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\00e5d8b0252db04cd8a2a88622c15dec.jpg",
       "PackagePath": "staticwebassets\\images\\00e5d8b0252db04cd8a2a88622c15dec.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\02a1568d6b9da399883e6c926cde8183.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\02a1568d6b9da399883e6c926cde8183.jpg",
       "PackagePath": "staticwebassets\\images\\02a1568d6b9da399883e6c926cde8183.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\0317ee0b4a49116393429f9b08144bfb.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\0317ee0b4a49116393429f9b08144bfb.jpg",
       "PackagePath": "staticwebassets\\images\\0317ee0b4a49116393429f9b08144bfb.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\03f1979c46299eb0c8ec129d22b49b52.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\03f1979c46299eb0c8ec129d22b49b52.jpg",
       "PackagePath": "staticwebassets\\images\\03f1979c46299eb0c8ec129d22b49b52.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\050563accc36bb778e7f97b983730d3b.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\050563accc36bb778e7f97b983730d3b.jpg",
       "PackagePath": "staticwebassets\\images\\050563accc36bb778e7f97b983730d3b.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\057ebd94bd14571eb73083f5118eda90.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\057ebd94bd14571eb73083f5118eda90.jpg",
       "PackagePath": "staticwebassets\\images\\057ebd94bd14571eb73083f5118eda90.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\07951a83cc9b2e78af5001ed47d9e479.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\07951a83cc9b2e78af5001ed47d9e479.jpg",
       "PackagePath": "staticwebassets\\images\\07951a83cc9b2e78af5001ed47d9e479.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\079e97a717adbe75d887ee20d75b6a9f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\079e97a717adbe75d887ee20d75b6a9f.jpg",
       "PackagePath": "staticwebassets\\images\\079e97a717adbe75d887ee20d75b6a9f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\09ed78dedd6268536769e53134158c88.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\09ed78dedd6268536769e53134158c88.jpg",
       "PackagePath": "staticwebassets\\images\\09ed78dedd6268536769e53134158c88.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\0c9130d95db64ec5bafb6e89ffb75d4e.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\0c9130d95db64ec5bafb6e89ffb75d4e.jpg",
       "PackagePath": "staticwebassets\\images\\0c9130d95db64ec5bafb6e89ffb75d4e.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\0ec3734fdac79a9e53337ebee0c35a85.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\0ec3734fdac79a9e53337ebee0c35a85.jpg",
       "PackagePath": "staticwebassets\\images\\0ec3734fdac79a9e53337ebee0c35a85.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\10ca30664ca763c28c7cc773082f960f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\10ca30664ca763c28c7cc773082f960f.jpg",
       "PackagePath": "staticwebassets\\images\\10ca30664ca763c28c7cc773082f960f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\118c928fe3f30ba552c8c147542629fc.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\118c928fe3f30ba552c8c147542629fc.jpg",
       "PackagePath": "staticwebassets\\images\\118c928fe3f30ba552c8c147542629fc.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\131439702e3c3cedeee3edcf1c660e18.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\131439702e3c3cedeee3edcf1c660e18.jpg",
       "PackagePath": "staticwebassets\\images\\131439702e3c3cedeee3edcf1c660e18.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\1389dc95f3e0e540433820354daa8d27.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\1389dc95f3e0e540433820354daa8d27.jpg",
       "PackagePath": "staticwebassets\\images\\1389dc95f3e0e540433820354daa8d27.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\15e109dd12df0eae2505a918ead66ce8.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\15e109dd12df0eae2505a918ead66ce8.jpg",
       "PackagePath": "staticwebassets\\images\\15e109dd12df0eae2505a918ead66ce8.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\18650527dec6397f11f76aae74a3e167.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\18650527dec6397f11f76aae74a3e167.jpg",
       "PackagePath": "staticwebassets\\images\\18650527dec6397f11f76aae74a3e167.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\21422d45ec272181a9ca077dcd1b3cc5.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\21422d45ec272181a9ca077dcd1b3cc5.jpg",
       "PackagePath": "staticwebassets\\images\\21422d45ec272181a9ca077dcd1b3cc5.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\255ac8228e946c55d22783db54482e02.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\255ac8228e946c55d22783db54482e02.jpg",
       "PackagePath": "staticwebassets\\images\\255ac8228e946c55d22783db54482e02.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\27c38978e6745f170fb3231bc087f599.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\27c38978e6745f170fb3231bc087f599.png",
       "PackagePath": "staticwebassets\\images\\27c38978e6745f170fb3231bc087f599.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\2bf376586734e631ca826d3666ff05c7.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\2bf376586734e631ca826d3666ff05c7.jpg",
       "PackagePath": "staticwebassets\\images\\2bf376586734e631ca826d3666ff05c7.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\2cfc0f59cd57f1ba33efc0dbd8699dc7.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\2cfc0f59cd57f1ba33efc0dbd8699dc7.jpg",
       "PackagePath": "staticwebassets\\images\\2cfc0f59cd57f1ba33efc0dbd8699dc7.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\2d9dfb1d8c22c59563e54a4b73e1311b.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\2d9dfb1d8c22c59563e54a4b73e1311b.jpg",
       "PackagePath": "staticwebassets\\images\\2d9dfb1d8c22c59563e54a4b73e1311b.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\2e8eef22f19b1834fc64ae420138b87b.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\2e8eef22f19b1834fc64ae420138b87b.jpg",
       "PackagePath": "staticwebassets\\images\\2e8eef22f19b1834fc64ae420138b87b.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\2ef610f32b9a2e03fa61c8f9ac864391.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\2ef610f32b9a2e03fa61c8f9ac864391.jpg",
       "PackagePath": "staticwebassets\\images\\2ef610f32b9a2e03fa61c8f9ac864391.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\2f4e547d14ec0b04d24d449424d81f4b.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\2f4e547d14ec0b04d24d449424d81f4b.jpg",
       "PackagePath": "staticwebassets\\images\\2f4e547d14ec0b04d24d449424d81f4b.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\33909301cacae1ac4c7d6131d4b77830.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\33909301cacae1ac4c7d6131d4b77830.jpg",
       "PackagePath": "staticwebassets\\images\\33909301cacae1ac4c7d6131d4b77830.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\36033edf38fe3a39f1d355af05894ba0.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\36033edf38fe3a39f1d355af05894ba0.jpg",
       "PackagePath": "staticwebassets\\images\\36033edf38fe3a39f1d355af05894ba0.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\37bbbbdd69d4d09812dc8f420acd8b76.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\37bbbbdd69d4d09812dc8f420acd8b76.jpg",
       "PackagePath": "staticwebassets\\images\\37bbbbdd69d4d09812dc8f420acd8b76.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\382f4dc1c2462b04d67c62b091929ff9.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\382f4dc1c2462b04d67c62b091929ff9.jpg",
       "PackagePath": "staticwebassets\\images\\382f4dc1c2462b04d67c62b091929ff9.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\38fc90b7396954824239444afb7b0a56.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\38fc90b7396954824239444afb7b0a56.jpg",
       "PackagePath": "staticwebassets\\images\\38fc90b7396954824239444afb7b0a56.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\3ded701d8d1f07a0ba40618f9bafd4c9.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\3ded701d8d1f07a0ba40618f9bafd4c9.jpg",
       "PackagePath": "staticwebassets\\images\\3ded701d8d1f07a0ba40618f9bafd4c9.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\3e480d03c3b6a9ffeea5c6945cb27e2d.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\3e480d03c3b6a9ffeea5c6945cb27e2d.jpg",
       "PackagePath": "staticwebassets\\images\\3e480d03c3b6a9ffeea5c6945cb27e2d.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\3e675b6f20d0683186d06a6bdac2880a.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\3e675b6f20d0683186d06a6bdac2880a.jpg",
       "PackagePath": "staticwebassets\\images\\3e675b6f20d0683186d06a6bdac2880a.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\3f9a92d98aa3e530cc4a4bc4e358d3a6.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\3f9a92d98aa3e530cc4a4bc4e358d3a6.jpg",
       "PackagePath": "staticwebassets\\images\\3f9a92d98aa3e530cc4a4bc4e358d3a6.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\4111c6f72c5ec0e9fa7658f540aa8f21.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\4111c6f72c5ec0e9fa7658f540aa8f21.jpg",
       "PackagePath": "staticwebassets\\images\\4111c6f72c5ec0e9fa7658f540aa8f21.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\4172508cc5915a4b0f520b4b1a21c18f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\4172508cc5915a4b0f520b4b1a21c18f.jpg",
       "PackagePath": "staticwebassets\\images\\4172508cc5915a4b0f520b4b1a21c18f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\426140dfd9ebdce79150c8e690181864.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\426140dfd9ebdce79150c8e690181864.jpg",
       "PackagePath": "staticwebassets\\images\\426140dfd9ebdce79150c8e690181864.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\42803acf4684a0615cd7731a79100b2d.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\42803acf4684a0615cd7731a79100b2d.jpg",
       "PackagePath": "staticwebassets\\images\\42803acf4684a0615cd7731a79100b2d.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\44e25e0818ea80df972bcae97c1c407e.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\44e25e0818ea80df972bcae97c1c407e.jpg",
       "PackagePath": "staticwebassets\\images\\44e25e0818ea80df972bcae97c1c407e.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\499bb0619ab88d0ce0401fcd73fbc5a0.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\499bb0619ab88d0ce0401fcd73fbc5a0.jpg",
       "PackagePath": "staticwebassets\\images\\499bb0619ab88d0ce0401fcd73fbc5a0.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\4acfc9f37579c3a7ccaa2cc9169a7436.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\4acfc9f37579c3a7ccaa2cc9169a7436.jpg",
       "PackagePath": "staticwebassets\\images\\4acfc9f37579c3a7ccaa2cc9169a7436.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\4cc4dd76f7545cd358a12ebcfe4768b3.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\4cc4dd76f7545cd358a12ebcfe4768b3.jpg",
       "PackagePath": "staticwebassets\\images\\4cc4dd76f7545cd358a12ebcfe4768b3.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\4f7a9bfb0813538a4f204a0ba13bf10f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\4f7a9bfb0813538a4f204a0ba13bf10f.jpg",
       "PackagePath": "staticwebassets\\images\\4f7a9bfb0813538a4f204a0ba13bf10f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\4f957c0c021a6ec26ef42bff033474a7.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\4f957c0c021a6ec26ef42bff033474a7.jpg",
       "PackagePath": "staticwebassets\\images\\4f957c0c021a6ec26ef42bff033474a7.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\50634496e857fb8c6058658bf352cbc5.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\50634496e857fb8c6058658bf352cbc5.jpg",
       "PackagePath": "staticwebassets\\images\\50634496e857fb8c6058658bf352cbc5.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\520e64edbba81fd3016815d49b03e565.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\520e64edbba81fd3016815d49b03e565.jpg",
       "PackagePath": "staticwebassets\\images\\520e64edbba81fd3016815d49b03e565.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\53d331abac0bccc641db7de865611c42.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\53d331abac0bccc641db7de865611c42.jpg",
       "PackagePath": "staticwebassets\\images\\53d331abac0bccc641db7de865611c42.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\54b7c3962ddff37632f6ad6e81386eec.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\54b7c3962ddff37632f6ad6e81386eec.png",
       "PackagePath": "staticwebassets\\images\\54b7c3962ddff37632f6ad6e81386eec.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\560dbed5ca01520b752b36e6724689c9.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\560dbed5ca01520b752b36e6724689c9.jpg",
       "PackagePath": "staticwebassets\\images\\560dbed5ca01520b752b36e6724689c9.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\563cfc0278dcd79860e6f6ba467e5755.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\563cfc0278dcd79860e6f6ba467e5755.jpg",
       "PackagePath": "staticwebassets\\images\\563cfc0278dcd79860e6f6ba467e5755.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\58cd0ef7b0ada405ea04e4d7c536052a.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\58cd0ef7b0ada405ea04e4d7c536052a.jpg",
       "PackagePath": "staticwebassets\\images\\58cd0ef7b0ada405ea04e4d7c536052a.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\5939435c64ca535602d7247a61ea56ef.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\5939435c64ca535602d7247a61ea56ef.jpg",
       "PackagePath": "staticwebassets\\images\\5939435c64ca535602d7247a61ea56ef.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\597328476a3ee14d9b51e4a05a628433.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\597328476a3ee14d9b51e4a05a628433.jpg",
       "PackagePath": "staticwebassets\\images\\597328476a3ee14d9b51e4a05a628433.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\5a9eef48389e5ef9b5e8cb88846f8a0f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\5a9eef48389e5ef9b5e8cb88846f8a0f.jpg",
       "PackagePath": "staticwebassets\\images\\5a9eef48389e5ef9b5e8cb88846f8a0f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\65f41eace436b67c13efb5c767396b42.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\65f41eace436b67c13efb5c767396b42.jpg",
       "PackagePath": "staticwebassets\\images\\65f41eace436b67c13efb5c767396b42.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\6780588d18caf2bbc105897ad4e926f8.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\6780588d18caf2bbc105897ad4e926f8.jpg",
       "PackagePath": "staticwebassets\\images\\6780588d18caf2bbc105897ad4e926f8.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\6a047476a3fc10a748743faf14f144fa.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\6a047476a3fc10a748743faf14f144fa.jpg",
       "PackagePath": "staticwebassets\\images\\6a047476a3fc10a748743faf14f144fa.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\6d9386c636de8d5f547d3fa00ae9457a.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\6d9386c636de8d5f547d3fa00ae9457a.jpg",
       "PackagePath": "staticwebassets\\images\\6d9386c636de8d5f547d3fa00ae9457a.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\7510cb0c9ead4c28fdcbcb6088130c4e.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\7510cb0c9ead4c28fdcbcb6088130c4e.jpg",
       "PackagePath": "staticwebassets\\images\\7510cb0c9ead4c28fdcbcb6088130c4e.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\77778d404c1b18cbd97461b239a14dc6.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\77778d404c1b18cbd97461b239a14dc6.jpg",
       "PackagePath": "staticwebassets\\images\\77778d404c1b18cbd97461b239a14dc6.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\7a57872d620e75adbacdd7f4607f0f28.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\7a57872d620e75adbacdd7f4607f0f28.jpg",
       "PackagePath": "staticwebassets\\images\\7a57872d620e75adbacdd7f4607f0f28.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\7aaee8bd9c04e324b9df40065bd75865.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\7aaee8bd9c04e324b9df40065bd75865.jpg",
       "PackagePath": "staticwebassets\\images\\7aaee8bd9c04e324b9df40065bd75865.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\831a4fe6ce961660e23446152d999aac.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\831a4fe6ce961660e23446152d999aac.jpg",
       "PackagePath": "staticwebassets\\images\\831a4fe6ce961660e23446152d999aac.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\83af8efd48c501e6e6a09f31a10a2194.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\83af8efd48c501e6e6a09f31a10a2194.jpg",
       "PackagePath": "staticwebassets\\images\\83af8efd48c501e6e6a09f31a10a2194.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\841bd09112bd7e7e7dbe50c31e3f81d2.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\841bd09112bd7e7e7dbe50c31e3f81d2.jpg",
       "PackagePath": "staticwebassets\\images\\841bd09112bd7e7e7dbe50c31e3f81d2.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\84c34c675bb75655db6e89ff141fa970.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\84c34c675bb75655db6e89ff141fa970.jpg",
       "PackagePath": "staticwebassets\\images\\84c34c675bb75655db6e89ff141fa970.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\851cbc3ac54906d79bb8da490907c2ed.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\851cbc3ac54906d79bb8da490907c2ed.jpg",
       "PackagePath": "staticwebassets\\images\\851cbc3ac54906d79bb8da490907c2ed.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\859a81ec49eb64a60c62d8ac26567dc5.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\859a81ec49eb64a60c62d8ac26567dc5.jpg",
       "PackagePath": "staticwebassets\\images\\859a81ec49eb64a60c62d8ac26567dc5.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8b80a1ba26d88b68a5f50a855e711be2.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8b80a1ba26d88b68a5f50a855e711be2.jpg",
       "PackagePath": "staticwebassets\\images\\8b80a1ba26d88b68a5f50a855e711be2.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8ba6f240dbb46e6de2b1a8d629e6e683.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8ba6f240dbb46e6de2b1a8d629e6e683.jpg",
       "PackagePath": "staticwebassets\\images\\8ba6f240dbb46e6de2b1a8d629e6e683.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8bf83e4f889807e684e387b440e96db1.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8bf83e4f889807e684e387b440e96db1.jpg",
       "PackagePath": "staticwebassets\\images\\8bf83e4f889807e684e387b440e96db1.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8d02f43a3cbac088f1a970c7996837af.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8d02f43a3cbac088f1a970c7996837af.jpg",
       "PackagePath": "staticwebassets\\images\\8d02f43a3cbac088f1a970c7996837af.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8d9d538563a34c22d64028b318135bfa.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8d9d538563a34c22d64028b318135bfa.jpg",
       "PackagePath": "staticwebassets\\images\\8d9d538563a34c22d64028b318135bfa.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8ee740d0bdafc248d5f7a22937a4e4bd.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8ee740d0bdafc248d5f7a22937a4e4bd.jpg",
       "PackagePath": "staticwebassets\\images\\8ee740d0bdafc248d5f7a22937a4e4bd.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8f2a6e2d071e329ef4ff76d8a152c73a.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8f2a6e2d071e329ef4ff76d8a152c73a.jpg",
       "PackagePath": "staticwebassets\\images\\8f2a6e2d071e329ef4ff76d8a152c73a.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\8f5234626779fec6bce84f3b72438914.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\8f5234626779fec6bce84f3b72438914.jpg",
       "PackagePath": "staticwebassets\\images\\8f5234626779fec6bce84f3b72438914.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\916e4ae2c6e38795ecb7a7488a30d747.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\916e4ae2c6e38795ecb7a7488a30d747.jpg",
       "PackagePath": "staticwebassets\\images\\916e4ae2c6e38795ecb7a7488a30d747.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\918292e594d60681016832ae343c6a27.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\918292e594d60681016832ae343c6a27.jpg",
       "PackagePath": "staticwebassets\\images\\918292e594d60681016832ae343c6a27.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\92a395c91379e503257976f878e8f3a4.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\92a395c91379e503257976f878e8f3a4.jpg",
       "PackagePath": "staticwebassets\\images\\92a395c91379e503257976f878e8f3a4.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\976aa5f54098c9d521af987d47c85de2.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\976aa5f54098c9d521af987d47c85de2.jpg",
       "PackagePath": "staticwebassets\\images\\976aa5f54098c9d521af987d47c85de2.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\996761ceb61274ddd2a28988ac81bc33.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\996761ceb61274ddd2a28988ac81bc33.jpg",
       "PackagePath": "staticwebassets\\images\\996761ceb61274ddd2a28988ac81bc33.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\9acaf585a5f631a5637f72db6c5be14c.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\9acaf585a5f631a5637f72db6c5be14c.jpg",
       "PackagePath": "staticwebassets\\images\\9acaf585a5f631a5637f72db6c5be14c.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\9b2481d7bd85389532787a34bdb8468e.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\9b2481d7bd85389532787a34bdb8468e.jpg",
       "PackagePath": "staticwebassets\\images\\9b2481d7bd85389532787a34bdb8468e.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\9e3aa9f197c9c0371ba50a25c4cb96ff.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\9e3aa9f197c9c0371ba50a25c4cb96ff.jpg",
       "PackagePath": "staticwebassets\\images\\9e3aa9f197c9c0371ba50a25c4cb96ff.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\9f86eb752c72bce98922036c0ff85ec9.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\9f86eb752c72bce98922036c0ff85ec9.jpg",
       "PackagePath": "staticwebassets\\images\\9f86eb752c72bce98922036c0ff85ec9.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a0deb62d4de86801f40c195fd8e17626.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a0deb62d4de86801f40c195fd8e17626.jpg",
       "PackagePath": "staticwebassets\\images\\a0deb62d4de86801f40c195fd8e17626.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a1d3e5e5c7ba587ca265046b4c264d43.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a1d3e5e5c7ba587ca265046b4c264d43.jpg",
       "PackagePath": "staticwebassets\\images\\a1d3e5e5c7ba587ca265046b4c264d43.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a2143bfa051bbc1ac938f7b45a602476.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a2143bfa051bbc1ac938f7b45a602476.jpg",
       "PackagePath": "staticwebassets\\images\\a2143bfa051bbc1ac938f7b45a602476.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a466c2bf0c34e96419ba9cc9b898e07f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a466c2bf0c34e96419ba9cc9b898e07f.jpg",
       "PackagePath": "staticwebassets\\images\\a466c2bf0c34e96419ba9cc9b898e07f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a4694872d0547ec22c6998beb51826f2.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a4694872d0547ec22c6998beb51826f2.jpg",
       "PackagePath": "staticwebassets\\images\\a4694872d0547ec22c6998beb51826f2.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a57b37c23f6745d1d9d807d477d1f40e.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a57b37c23f6745d1d9d807d477d1f40e.jpg",
       "PackagePath": "staticwebassets\\images\\a57b37c23f6745d1d9d807d477d1f40e.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a78f448108e012d8c274b4ffd14a7c02.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a78f448108e012d8c274b4ffd14a7c02.jpg",
       "PackagePath": "staticwebassets\\images\\a78f448108e012d8c274b4ffd14a7c02.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\a861dbea14776bc0de728f6b06a709d6.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\a861dbea14776bc0de728f6b06a709d6.jpg",
       "PackagePath": "staticwebassets\\images\\a861dbea14776bc0de728f6b06a709d6.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\aa166fcd0d901ddad836e30d8bc6c7a8.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\aa166fcd0d901ddad836e30d8bc6c7a8.jpg",
       "PackagePath": "staticwebassets\\images\\aa166fcd0d901ddad836e30d8bc6c7a8.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\ab444d7be4804f8c20de19cfdcbe7ddc.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\ab444d7be4804f8c20de19cfdcbe7ddc.jpg",
       "PackagePath": "staticwebassets\\images\\ab444d7be4804f8c20de19cfdcbe7ddc.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\acffc7d5ed850ae841db9c3e73e13e90.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\acffc7d5ed850ae841db9c3e73e13e90.jpg",
       "PackagePath": "staticwebassets\\images\\acffc7d5ed850ae841db9c3e73e13e90.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\active.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\active.png",
       "PackagePath": "staticwebassets\\images\\active.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\af9df29b759193fb4b00f6313228ce36.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\af9df29b759193fb4b00f6313228ce36.jpg",
       "PackagePath": "staticwebassets\\images\\af9df29b759193fb4b00f6313228ce36.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\ajax-loader.gif",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b088a3f85f568e627f9a4f025ab02069.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b088a3f85f568e627f9a4f025ab02069.jpg",
       "PackagePath": "staticwebassets\\images\\b088a3f85f568e627f9a4f025ab02069.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b19afa0041b3b1599752845cae849726.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b19afa0041b3b1599752845cae849726.jpg",
       "PackagePath": "staticwebassets\\images\\b19afa0041b3b1599752845cae849726.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b1e9b91853fbb474efe4aacaaa3b84b3.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b1e9b91853fbb474efe4aacaaa3b84b3.jpg",
       "PackagePath": "staticwebassets\\images\\b1e9b91853fbb474efe4aacaaa3b84b3.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b28728ec4868142938d11e0780938dd3.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b28728ec4868142938d11e0780938dd3.jpg",
       "PackagePath": "staticwebassets\\images\\b28728ec4868142938d11e0780938dd3.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b477d6f617f833a43f4e79bd311db068.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b477d6f617f833a43f4e79bd311db068.jpg",
       "PackagePath": "staticwebassets\\images\\b477d6f617f833a43f4e79bd311db068.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b58a7e3788d6e0d125af78be380f1cd6.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b58a7e3788d6e0d125af78be380f1cd6.jpg",
       "PackagePath": "staticwebassets\\images\\b58a7e3788d6e0d125af78be380f1cd6.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b5c4ed618a6dab993ff41995b49bd9b0.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b5c4ed618a6dab993ff41995b49bd9b0.jpg",
       "PackagePath": "staticwebassets\\images\\b5c4ed618a6dab993ff41995b49bd9b0.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b5c797b133072857fa661b8fa473a961.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b5c797b133072857fa661b8fa473a961.jpg",
       "PackagePath": "staticwebassets\\images\\b5c797b133072857fa661b8fa473a961.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\b76cce0127094293196895a4e77dcfe4.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\b76cce0127094293196895a4e77dcfe4.jpg",
       "PackagePath": "staticwebassets\\images\\b76cce0127094293196895a4e77dcfe4.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\border_default.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\border_default.png",
       "PackagePath": "staticwebassets\\images\\border_default.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c03588cadfe070eb486eb59652b1f3a3.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c03588cadfe070eb486eb59652b1f3a3.jpg",
       "PackagePath": "staticwebassets\\images\\c03588cadfe070eb486eb59652b1f3a3.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c0b212a76bf36391442c2a3548cbd837.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c0b212a76bf36391442c2a3548cbd837.jpg",
       "PackagePath": "staticwebassets\\images\\c0b212a76bf36391442c2a3548cbd837.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c1a62379017a12f37adfc99778927d46.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c1a62379017a12f37adfc99778927d46.jpg",
       "PackagePath": "staticwebassets\\images\\c1a62379017a12f37adfc99778927d46.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c1cdbebb94febd0f0b760eb4a48fc06f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c1cdbebb94febd0f0b760eb4a48fc06f.jpg",
       "PackagePath": "staticwebassets\\images\\c1cdbebb94febd0f0b760eb4a48fc06f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c5ceaa079d0e1d42cd322c09f31e99fd.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c5ceaa079d0e1d42cd322c09f31e99fd.jpg",
       "PackagePath": "staticwebassets\\images\\c5ceaa079d0e1d42cd322c09f31e99fd.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c73a7d0bc1b70595f6dfa111ce7436a8.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c73a7d0bc1b70595f6dfa111ce7436a8.jpg",
       "PackagePath": "staticwebassets\\images\\c73a7d0bc1b70595f6dfa111ce7436a8.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c75ea1b019f2a0ccf3eecd8351ed3255.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c75ea1b019f2a0ccf3eecd8351ed3255.jpg",
       "PackagePath": "staticwebassets\\images\\c75ea1b019f2a0ccf3eecd8351ed3255.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\c91198b223358011bdbf0626c4ec1997.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\c91198b223358011bdbf0626c4ec1997.jpg",
       "PackagePath": "staticwebassets\\images\\c91198b223358011bdbf0626c4ec1997.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\calc-arrow.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\calc-arrow.png",
       "PackagePath": "staticwebassets\\images\\calc-arrow.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\call.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\call.png",
       "PackagePath": "staticwebassets\\images\\call.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\camera.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\camera.png",
       "PackagePath": "staticwebassets\\images\\camera.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\cba8d0278c5b109eb60fb540c8b203b3.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\cba8d0278c5b109eb60fb540c8b203b3.jpg",
       "PackagePath": "staticwebassets\\images\\cba8d0278c5b109eb60fb540c8b203b3.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\cc085390bab55ae2fb411b0583c92066.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\cc085390bab55ae2fb411b0583c92066.jpg",
       "PackagePath": "staticwebassets\\images\\cc085390bab55ae2fb411b0583c92066.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\cd2ff41825e0568473b6b985dc8fc95f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\cd2ff41825e0568473b6b985dc8fc95f.jpg",
       "PackagePath": "staticwebassets\\images\\cd2ff41825e0568473b6b985dc8fc95f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\cfc8b8822f28cf434d325403fbd19024.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\cfc8b8822f28cf434d325403fbd19024.jpg",
       "PackagePath": "staticwebassets\\images\\cfc8b8822f28cf434d325403fbd19024.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\check-list.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\check-list.png",
       "PackagePath": "staticwebassets\\images\\check-list.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\clock.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\clock.png",
       "PackagePath": "staticwebassets\\images\\clock.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\controls.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\controls.png",
       "PackagePath": "staticwebassets\\images\\controls.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d19ab2dd3e2291bdae266c0dbda49a56.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d19ab2dd3e2291bdae266c0dbda49a56.jpg",
       "PackagePath": "staticwebassets\\images\\d19ab2dd3e2291bdae266c0dbda49a56.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d6c8608d5bb4faebf4493d7ca88c4186.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d6c8608d5bb4faebf4493d7ca88c4186.jpg",
       "PackagePath": "staticwebassets\\images\\d6c8608d5bb4faebf4493d7ca88c4186.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d78afc5c6a3fa950bf10958a08e0d113.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d78afc5c6a3fa950bf10958a08e0d113.jpg",
       "PackagePath": "staticwebassets\\images\\d78afc5c6a3fa950bf10958a08e0d113.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d795627cdcd049654d239f6158cdef8d.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d795627cdcd049654d239f6158cdef8d.jpg",
       "PackagePath": "staticwebassets\\images\\d795627cdcd049654d239f6158cdef8d.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d8340836243e3010f53c85c001cbd882.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d8340836243e3010f53c85c001cbd882.jpg",
       "PackagePath": "staticwebassets\\images\\d8340836243e3010f53c85c001cbd882.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d916e17267dc780f8b8512aef5b08b4f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d916e17267dc780f8b8512aef5b08b4f.jpg",
       "PackagePath": "staticwebassets\\images\\d916e17267dc780f8b8512aef5b08b4f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\d9aa6c39b8f465542156349692c9f34f.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\d9aa6c39b8f465542156349692c9f34f.jpg",
       "PackagePath": "staticwebassets\\images\\d9aa6c39b8f465542156349692c9f34f.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\de7852bf0aae371eca9917c62dc8c5a0.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\de7852bf0aae371eca9917c62dc8c5a0.jpg",
       "PackagePath": "staticwebassets\\images\\de7852bf0aae371eca9917c62dc8c5a0.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\delivery.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\delivery.png",
       "PackagePath": "staticwebassets\\images\\delivery.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\design-tool.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\design-tool.png",
       "PackagePath": "staticwebassets\\images\\design-tool.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\e2800acd7b3cfd2ad3d7a3ef781fc925.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\e2800acd7b3cfd2ad3d7a3ef781fc925.jpg",
       "PackagePath": "staticwebassets\\images\\e2800acd7b3cfd2ad3d7a3ef781fc925.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\e353fce01d7f1b0668b75b60fc14f01a.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\e353fce01d7f1b0668b75b60fc14f01a.jpg",
       "PackagePath": "staticwebassets\\images\\e353fce01d7f1b0668b75b60fc14f01a.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\e615867bba5a0ef57297197dd2cf4d82.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\e615867bba5a0ef57297197dd2cf4d82.jpg",
       "PackagePath": "staticwebassets\\images\\e615867bba5a0ef57297197dd2cf4d82.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\ea9a00631d85127b791493a1ccacae39.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\ea9a00631d85127b791493a1ccacae39.jpg",
       "PackagePath": "staticwebassets\\images\\ea9a00631d85127b791493a1ccacae39.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\ecaef4205c8463717e1bce3beda066d5.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\ecaef4205c8463717e1bce3beda066d5.jpg",
       "PackagePath": "staticwebassets\\images\\ecaef4205c8463717e1bce3beda066d5.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\ee2c4a91faf68af7702375cfe53830cf.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\ee2c4a91faf68af7702375cfe53830cf.jpg",
       "PackagePath": "staticwebassets\\images\\ee2c4a91faf68af7702375cfe53830cf.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\ef6212590be7aa0771b35ef40697eecf.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\ef6212590be7aa0771b35ef40697eecf.jpg",
       "PackagePath": "staticwebassets\\images\\ef6212590be7aa0771b35ef40697eecf.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\f3703d6d7ef00e83b6711172d0699a07.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\f3703d6d7ef00e83b6711172d0699a07.jpg",
       "PackagePath": "staticwebassets\\images\\f3703d6d7ef00e83b6711172d0699a07.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\f46bf9c4bb08fde7fe1c49b5b7b1d278.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\f46bf9c4bb08fde7fe1c49b5b7b1d278.jpg",
       "PackagePath": "staticwebassets\\images\\f46bf9c4bb08fde7fe1c49b5b7b1d278.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\f46efff563e0265888486fe705a9513e.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\f46efff563e0265888486fe705a9513e.jpg",
       "PackagePath": "staticwebassets\\images\\f46efff563e0265888486fe705a9513e.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\f9042dc639b37c2b52b6d8eddf8ee810.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\f9042dc639b37c2b52b6d8eddf8ee810.jpg",
       "PackagePath": "staticwebassets\\images\\f9042dc639b37c2b52b6d8eddf8ee810.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\f9a3e97feb5906bc585181dbb3074104.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\f9a3e97feb5906bc585181dbb3074104.jpg",
       "PackagePath": "staticwebassets\\images\\f9a3e97feb5906bc585181dbb3074104.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\line-empty.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\line-empty.png",
       "PackagePath": "staticwebassets\\images\\line-empty.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\loading.gif",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\loading.gif",
       "PackagePath": "staticwebassets\\images\\loading.gif"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\main-photo.jpg",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\main-photo.jpg",
       "PackagePath": "staticwebassets\\images\\main-photo.jpg"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\popup-menu-sprite.2.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\popup-menu-sprite.2.png",
       "PackagePath": "staticwebassets\\images\\popup-menu-sprite.2.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\range.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\range.png",
       "PackagePath": "staticwebassets\\images\\range.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\result_popup_left.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\result_popup_left.png",
       "PackagePath": "staticwebassets\\images\\result_popup_left.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\result_popup_right.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\result_popup_right.png",
       "PackagePath": "staticwebassets\\images\\result_popup_right.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\top-panel-sprite-2.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\top-panel-sprite-2.png",
       "PackagePath": "staticwebassets\\images\\top-panel-sprite-2.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\warranty-mark2.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\warranty-mark2.png",
       "PackagePath": "staticwebassets\\images\\warranty-mark2.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\warranty.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\warranty.png",
       "PackagePath": "staticwebassets\\images\\warranty.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\images\\youtube-play-btn.png",
+      "Id": "D:\\SevenVorot\\wwwroot\\images\\youtube-play-btn.png",
       "PackagePath": "staticwebassets\\images\\youtube-play-btn.png"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\ajax.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\ajax.js",
       "PackagePath": "staticwebassets\\js\\ajax.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\api.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\api.js",
       "PackagePath": "staticwebassets\\js\\api.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\ba.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\ba.js",
       "PackagePath": "staticwebassets\\js\\ba.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\core.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\core.js",
       "PackagePath": "staticwebassets\\js\\core.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\core_ajax.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\core_ajax.js",
       "PackagePath": "staticwebassets\\js\\core_ajax.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\core_fx.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\core_fx.js",
       "PackagePath": "staticwebassets\\js\\core_fx.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\core_popup.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\core_popup.js",
       "PackagePath": "staticwebassets\\js\\core_popup.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\core_promise.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\core_promise.js",
       "PackagePath": "staticwebassets\\js\\core_promise.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\custom.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\dhaide.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\dhaide.js",
       "PackagePath": "staticwebassets\\js\\dhaide.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\extension.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\extension.js",
       "PackagePath": "staticwebassets\\js\\extension.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\jquery.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\loadext.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\loadext.js",
       "PackagePath": "staticwebassets\\js\\loadext.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\main.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\promise.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\promise.js",
       "PackagePath": "staticwebassets\\js\\promise.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\script.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\script_1.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\script_1.js",
       "PackagePath": "staticwebassets\\js\\script_1.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\script_2.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\script_2.js",
       "PackagePath": "staticwebassets\\js\\script_2.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\script_3.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\script_3.js",
       "PackagePath": "staticwebassets\\js\\script_3.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\site.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\js\\tag.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\js\\tag.js",
       "PackagePath": "staticwebassets\\js\\tag.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\SevenVorot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\SevenVorot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

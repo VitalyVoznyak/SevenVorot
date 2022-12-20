@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SevenVorot.Entitys;
 
 namespace SevenVorot.Controllers
 {
@@ -9,13 +10,11 @@ namespace SevenVorot.Controllers
             return View();
         }
 
-        public IActionResult GetProduct()
+        public IActionResult GetProduct(Product product)
         {
+            
             return View();
         }
-        public IActionResult GetProductInfo()
-        {
-            return View();
-        }
+       
     }
 }
