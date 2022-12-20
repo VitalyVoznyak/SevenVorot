@@ -11,9 +11,9 @@ namespace SevenVorot.ContextFolder
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-                @"Server = (localdb)\MSSQLLocalDB;
-                DataBase=MyDbFile;
-                Trusred_Connection=True;"
+                @"Server=(localdb)\MSSQLLocalDB;
+                DataBase=SevenVorotDataBase;
+                Trusted_Connection=True;"
             );
         }
     }

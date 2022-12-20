@@ -8,12 +8,13 @@
     <input asp-for="article" type="text" name="userText" class="middle-header-search__input" placeholder="артикул товара">
     <input asp-for="partition" type="text" name="userText" class="middle-header-search__input" placeholder="раздел товара">
     <input asp-for="price" type="text" name="userText" class="middle-header-search__input" placeholder="цена товара в рублях">
+    <input asp-for="imageName" type="text" name="userText" class="middle-header-search__input" placeholder="имя файла изображения">
     @{
         for(int i = 0; i < 30; i++)
         {
             <div>
-                <input asp-for="otherSpecificationsName[i]" type="text" name="userText" class="middle-header-search__input" placeholder="имя дополнительной характеристики">
-                <input asp-for="otherSpecificationsValue[i]" type="text" name="userText" class="middle-header-search__input" placeholder="значение дополнительной характеристики">
+                <input asp-for="otherSpecificationsNameArray[i]" type="text" name="userText" class="middle-header-search__input" placeholder="имя доп характеристики @(i+1)">
+                <input asp-for="otherSpecificationsValueArray[i]" type="text" name="userText" class="middle-header-search__input" placeholder="значение доп характеристики @(i+1)">
             </div>   
         }
     }
