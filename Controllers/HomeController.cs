@@ -15,17 +15,41 @@ namespace SevenVorot.Controllers
 
         public IActionResult Index()
         {
+            Search basic = new Search() {searchString = "null" };
+            return View(basic);
+        }
+        
+         public IActionResult Automatic()
+        {   
             return View();
         }
-
-        [HttpPost]
-        public IActionResult Check(Contact contact)
+        public IActionResult Barrier()
         {
-            if(ModelState.IsValid)
-            {
-                return Redirect("/");
-            }            
-            return View("Index");
+            return View();
+        }
+        public IActionResult Doors()
+        {
+            return View();
+        }
+        public IActionResult FencingSystems()
+        {
+            return View();
+        }
+        public IActionResult Rollets()
+        {
+            return View();
+        }
+        public IActionResult SectionalDoors()
+        {
+            return View();
+        }
+        public IActionResult SlidingGates()
+        {
+            return View();
+        }
+        public IActionResult SwingGates()
+        {
+            return View();
         }
 
 

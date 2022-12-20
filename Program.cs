@@ -1,4 +1,6 @@
+
 namespace SevenVorot
+   
 {
     public class Program
     {
@@ -7,7 +9,7 @@ namespace SevenVorot
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             var app = builder.Build();
 
@@ -28,7 +30,7 @@ namespace SevenVorot
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=WorkwithDB}/{action=GetProduct}/{id?}");
 
             app.Run();
         }
