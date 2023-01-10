@@ -19,38 +19,7 @@ namespace SevenVorot.Controllers
             return View(basic);
         }
         
-         public IActionResult Automatic()
-        {   
-            return View();
-        }
-        public IActionResult Barrier()
-        {
-            return View();
-        }
-        public IActionResult Doors()
-        {
-            return View();
-        }
-        public IActionResult FencingSystems()
-        {
-            return View();
-        }
-        public IActionResult Rollets()
-        {
-            return View();
-        }
-        public IActionResult SectionalDoors()
-        {
-            return View();
-        }
-        public IActionResult SlidingGates()
-        {
-            return View();
-        }
-        public IActionResult SwingGates()
-        {
-            return View();
-        }
+       
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

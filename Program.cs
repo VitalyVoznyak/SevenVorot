@@ -30,7 +30,7 @@ namespace SevenVorot
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=WorkwithDB}/{action=GetProduct}/{id?}");
+                pattern: "{controller=Catalog}/{action=ProductListPage}/{id?}");
 
             app.Run();
         }
